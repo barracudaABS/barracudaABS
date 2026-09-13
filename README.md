@@ -25,26 +25,10 @@ I'm Max – a passionate **Machine Learning Engineer** with  years of experience
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-#### **Vector Search & MLOps**
+#### **Tools**
 ![FAISS](https://img.shields.io/badge/FAISS-0055FF?style=for-the-badge&logo=facebook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-🔥 Featured Projects
-
-<div align="center">
-  <a href="[https://github.com/barracudaABS/multimodal_rag]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[barracudaABS]&repo=[multimodal_rag]&theme=radical" />
-  </a>
-  <a href="[https://github.com/barracudaABS/TBM]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[barracuda_ABS]&repo=[TBM]&theme=radical" />
-  </a>
-  <br/>
-  <a href="[https://github.com/barracudaABS/emotion_recognition_on_photo]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[barracudaABS]&repo=[emotion_recognition_on_photo]&theme=radical" />
-  </a>
-  <a href="[https://github.com/barracudaABS/emotion_recognition_on_audio]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[barracudaABS]&repo=[emotion_recognition_on_audio]&theme=radical" />
-  </a>
-</div>
